@@ -19,4 +19,4 @@ def songlyric(artist,song):
         print(songlyrics)
         return
 
-songlyric("lana del rey","young and beautiful")
+songlyric("5 seconds of summer","youngblood")
